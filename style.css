@@ -1,0 +1,93 @@
+h1 {
+  font-size: 25px;
+  font-family: MV Boli;
+  color: white;
+  text-align: center;
+  height: 30px;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+body {
+  background-color: #9E8DBF;
+  margin: 0px;
+}
+
+.navbar {
+  background-color: midnightblue;
+}
+
+.hello {
+  width: 50%;
+  margin-left: 22%;
+  margin-right: 25%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  overflow: auto;
+  border: solid 2px midnightblue;
+  padding: 55px;
+  text-align: center;
+  justify-content: center;
+  box-shadow: -5px 10px 20px 0px midnightblue;
+}
+
+.about {
+  width: 50%;
+  margin-left: 22%;
+  margin-right: 25%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  overflow: auto;
+  border: solid 2px midnightblue;
+  padding: 55px;
+  text-align: center;
+  box-shadow: -5px 10px 20px 0px midnightblue;
+}
+
+.contact {
+  width: 50%;
+  margin-left: 22%;
+  margin-right: 25%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  overflow: auto;
+  border: solid 2px midnightblue;
+  padding: 55px;
+  text-align: center;
+  box-shadow: -5px 10px 20px 0px midnightblue;
+}
+
+.copyright {
+  width: 100%;
+  background-color: midnightblue;
+  height: 40px;
+  text-align: center;
+  color: white;
+}
+
+a:link {
+  color: midnightblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #3434fe;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #060619;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #8b8ffe;
+  background-color: transparent;
+  text-decoration: underline;
+}
